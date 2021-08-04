@@ -1,0 +1,36 @@
+{
+  "people": [
+    {
+      "id": 1,
+      "name": "Md.Atik Asif Khan Akash",
+      "dept": "Computer Science and Engineering",
+      "semester": "Fall-2020",
+      "course": "Data Mining",
+      "gender": "Male"
+    },
+    {
+      "id": 2,
+      "name": "Israt Jahan",
+      "dept": "Computer Science and Engineering",
+      "semester": "Fall-2021",
+      "course": "Math-I",
+      "gender": "Female"
+    },
+    {
+      "id": "16",
+      "name": "Ashik Khan Abdullah",
+      "gender": "Male",
+      "dept": "English Department",
+      "semester": "Summer-2021",
+      "course": "English-II"
+    },
+    {
+      "name": "Moon Rahman",
+      "dept": "Bangladesh Studies",
+      "id": "18",
+      "gender": "Female",
+      "semester": "Fall-2021",
+      "course": "English-II"
+    }
+  ]
+}
